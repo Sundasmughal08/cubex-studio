@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap for Google Search Console
+Sitemap: https://cubexdesignstudio.vercel.app/sitemap.xml
